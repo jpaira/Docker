@@ -1,0 +1,4 @@
+#! /bin/bash
+mkdir /temp/test_git
+cd /temp/tes_git/
+touch newfile
